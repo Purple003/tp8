@@ -1,0 +1,5 @@
+42
+17
+99
+abc     // cette ligne provoquera une erreur de format, test volontaire
+123
